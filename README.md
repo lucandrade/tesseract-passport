@@ -4,12 +4,12 @@ Class that analyze the passport url image and return the info.
 
 ## Installation
 
-Run `npm install`
+Execute `npm install`
 > Perhaps you need to follow those [Steps](https://github.com/Automattic/node-canvas/wiki/Installation---OSX) to complete installation
 
-## Using
+## Running
 
-Run `npm start {url}` to analyze a url
+Execute `npm start {url}` to analyze a url
 
 Sample output:
 ```
